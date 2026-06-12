@@ -46,4 +46,3 @@ This project focuses on optimizing sector-specific investment portfolios in the 
 
 ## Contact
 **Varun Bhimani**  
-[Email](mailto:varun_bs@cs.iitr.ac.in) 
